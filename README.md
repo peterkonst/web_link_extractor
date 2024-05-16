@@ -16,13 +16,13 @@ source env/bin/activate
 ```
 
 
-1. Navigate to the project directory:
+3. Navigate to the project directory:
 
 ```bash
 cd web-link-extractor
 ```
 
-2. Install dependencies:
+4. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
